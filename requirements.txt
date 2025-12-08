@@ -1,6 +1,6 @@
-# requirements.txt
 streamlit
 numpy
 joblib
-# 你的模型是用 Scikit-learn 训练的，必须包含它
 scikit-learn
+pandas
+
