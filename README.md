@@ -48,10 +48,10 @@ Testing Set: 20% (30 samples)
 A live prediction pipeline was built to simulate a real-world scenario. The system loads the saved model (my_best_model.pkl), accepts new signal arrays, and outputs the status.
 Example Output:
 ==============================
- >>> 生物计算机状态分析报告 <<<
+ >>> Biological Computer Status Analysis Report <<<
 ==============================
-当前预测状态: 🔴 INACTIVE (静息/待机)
-模型置信度  : 82.00%
+Current Forecast Status: 🔴 INACTIVE 
+Model Confidence  : 82.00%
 ==============================
 
   6. Repository Structure
